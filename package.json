@@ -1,0 +1,30 @@
+{
+  "name": "devopsmw",
+  "version": "0.1.0",
+  "description": "Dice-Roller app for DevOps Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node ./node_modules/mocha/bin/mocha ./test/**/*_test.js --exit"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "devops",
+    "hello-world"
+  ],
+  "author": "Sketch Development Services",
+  "license": "ISC",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.8",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "serverless-http": "^2.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "serverless": "^2.11.1",
+    "supertest": "^4.0.2"
+  }
+}
