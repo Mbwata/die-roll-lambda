@@ -1,3 +1,7 @@
+I used this article for the lambda stuff:
+https://medium.com/hackernoon/how-to-deploy-a-node-js-application-to-aws-lambda-using-serverless-ae7e7ebe0996
+
+
 Dice-Roller - The DevOps Bootcamp Experience
 =============================================
 
